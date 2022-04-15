@@ -1,0 +1,18 @@
+body
+{
+    color: red;
+    background-color: aqua;
+}
+
+h3
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera
+{
+    border: 2px solid darkmagenta;
+    width: 350px;
+    height: 300px;
+}
